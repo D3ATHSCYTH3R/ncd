@@ -1,0 +1,29 @@
+#dog{
+    width: 245px;
+    height: 175px;
+}
+#cat{
+    width: 245px;
+    height: 175px;
+}
+#tiger{
+    width: 245px;
+    height: 175px;
+}
+#horse{
+    width: 245px;
+    height: 175px;
+}
+#chicken{
+    width: 245px;
+    height: 175px;
+}
+body {
+    background: linear-gradient(pink, lightblue);
+}
+p {
+background: magenta;
+}
+h2, h3, h4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
